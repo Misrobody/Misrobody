@@ -2,6 +2,8 @@
 
 I’m **Misrobody**, a software engineer with a mixed background in **software engineering**, **UI/UX**, and several years of study in **visual arts**. I like building tools, visualizers, and interfaces that make complex systems easier to understand.
 
+<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=madushadhanushka&repo=madushadhanushka&countColorcountColor&countColor=%237B1E7B"/>
+
 ---
 
 ## Tech Stack
