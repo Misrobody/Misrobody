@@ -1,12 +1,32 @@
-# Misrobody — Software Engineer & Designer
+<div align="center">
 
-I’m **Misrobody**, a software engineer with a mixed background in **software engineering**, **UI/UX**, and several years of study in **visual arts**. I like building tools, visualizers, and interfaces that make complex systems easier to understand.
+<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=0:fe5400,900:fcba03&text=Bigeishe&reversal=false&section=header&textBg=false&fontColor=426054&desc=Software%20engineer%20and%20designer&descAlign=50&descAlignY=70&fontAlign=50&fontAlignY=50">
+
+⚞^. .^⚟
+
+<img src="https://media.giphy.com/media/dNgK7Ws7y176U/giphy.gif">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daphne.larrivain@gmail.com)
+[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://bigeishe.itch.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bigeishe.neocities.org/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bigeishe)
+
+</br>
 
 <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=madushadhanushka&repo=madushadhanushka&countColorcountColor&countColor=%237B1E7B"/>
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Misrobody?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
+
+</div>
 
 ---
 
-## Tech Stack
+## 💬 The Part Where I talk About Myself
+
+I’m **Misrobody**, a software engineer with a mixed background in **software engineering**, **UI/UX**, and several years of study in **visual arts**. I like building tools, visualizers, and interfaces that make complex systems easier to understand.
+
+---
+
+## 👾 Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -53,13 +73,14 @@ Part of the work described in:
 
 ---
 
-## 🌐 Portfolio
-https://bigeishe.neocities.org/
+<div align="center">
+  
+## 🧩 Let's connect!
 
----
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daphne.larrivain@gmail.com)
+[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://bigeishe.itch.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bigeishe.neocities.org/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bigeishe)
+</div>
 
-## ✨ About Me
-I enjoy building things that are both technically solid and visually thoughtful, whether it’s a monitoring tool, a front‑end layout, or a handmade book.
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Misrobody&repo=kieker-grouped-graph-visualizer)](https://github.com/Misrobody/kieker-grouped-graph-visualizer)
-
+<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=0:fe5400,900:fcba03&reversal=false&section=footer&textBg=false&fontColor=426054&descAlign=50&descAlignY=70&fontAlign=50&fontAlignY=50">
