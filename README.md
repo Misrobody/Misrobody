@@ -33,3 +33,6 @@ https://bigeishe.neocities.org/
 
 ## ✨ About Me
 I enjoy building things that are both technically solid and visually thoughtful, whether it’s a monitoring tool, a front‑end layout, or a handmade book.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Misrobody&repo=kieker-grouped-graph-visualizer)](https://github.com/Misrobody/kieker-grouped-graph-visualizer)
+
