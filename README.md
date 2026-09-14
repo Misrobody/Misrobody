@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=0:fe5400,900:fcba03&text=Bigeishe&reversal=false&section=header&textBg=false&fontColor=426054&desc=Software%20engineer%20and%20designer&descAlign=50&descAlignY=70&fontAlign=50&fontAlignY=50">
+<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=0:fe5400,900:fcba03&text=Bigeishe&reversal=false&section=header&textBg=false&fontColor=426054&desc=Software%20Engineer%20And%20Designer&descAlign=50&descAlignY=70&fontAlign=50&fontAlignY=50">
 
 ⚞^. .^⚟
 
@@ -24,12 +24,15 @@
 
 I’m **Misrobody**, a software engineer with a mixed background in **software engineering**, **UI/UX**, and several years of study in **visual arts**. I like building tools, visualizers, and interfaces that make complex systems easier to understand.
 
+For as long as I can remember, I've been dabbling in all kind of arts. However, since 2020 I've also started to mess around with the Ren'py game engine, and I've been loving it ever since!
+
 ---
 
 ## 👾 Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Ren'Py](https://img.shields.io/badge/Ren'Py-FF7F50?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
