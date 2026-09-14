@@ -86,6 +86,7 @@ Part of the work described in:
 [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://bigeishe.itch.io/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bigeishe.neocities.org/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bigeishe)
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=0:fe5400,900:fcba03&reversal=false&section=footer&textBg=false&fontColor=426054&descAlign=50&descAlignY=70&fontAlign=50&fontAlignY=50">
+
+</div>
