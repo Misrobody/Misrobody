@@ -26,6 +26,8 @@ I’m **Misrobody**, a software engineer with a mixed background in **software e
 
 For as long as I can remember, I've been dabbling in all kind of arts. However, since 2020 I've also started to mess around with the Ren'py game engine, and I've been loving it ever since!
 
+Please note that the majority of my projects are on [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://bigeishe.itch.io/)
+
 ---
 
 ## 👾 Tech Stack
