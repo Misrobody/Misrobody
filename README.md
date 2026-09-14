@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:fe5400,900:fcba03&text=Bigeishe&reversal=false&section=header&textBg=false&fontColor=000000&desc=Software%20Engineer%20And%20Designer&descAlign=50&descAlignY=70&fontAlign=50&fontAlignY=50">
+<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=0:fe5400,900:fcba03&text=Bigeishe&reversal=false&section=header&textBg=false&fontColor=000000&desc=Software%20Engineer%20And%20Designer&descAlign=50&descAlignY=70&fontAlign=50&fontAlignY=50">
 
 <img src="https://media.giphy.com/media/d3MLdIYIHup9Q2xG/giphy.gif" width=300>
 
@@ -85,6 +85,6 @@ Part of the work described in:
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bigeishe.neocities.org/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bigeishe)
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:fe5400,900:fcba03&reversal=false&section=footer&textBg=false&fontColor=426054&descAlign=50&descAlignY=70&fontAlign=50&fontAlignY=50">
+<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=0:fe5400,900:fcba03&reversal=false&section=footer&textBg=false&fontColor=426054&descAlign=50&descAlignY=70&fontAlign=50&fontAlignY=50">
 
 </div>
