@@ -1,16 +1,35 @@
-## Hi there 👋
+# Misrobody — Software Engineer & Designer
 
-<!--
-**Misrobody/Misrobody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Misrobody**, a software engineer with a mixed background in **software engineering**, **UI/UX**, and several years of study in **visual arts**. I like building tools, visualizers, and interfaces that make complex systems easier to understand.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+- **Languages** — Python, C++, Java, JavaScript
+- **Other** — LaTeX, Ren’Py, UI/UX design, bookbinding
+
+---
+
+## 📌 Featured Project — GGVis
+A grouped‑graph visualizer designed to make **Kieker** monitoring data easier to explore and interpret.
+
+### 🔍 What it does  
+GGVis parses grouped traces and renders them as interactive graph structures, helping developers understand system behavior at scale.
+
+### 📄 Related Publication  
+Part of the work described in:  
+**“Grouped Graph Visualization for Kieker Monitoring Data”** — arXiv:2507.23425
+
+### 🔗 Links  
+- **Repository:** https://github.com/Misrobody/kieker-grouped-graph-visualizer  
+- **Paper:** https://arxiv.org/abs/2507.23425
+
+---
+
+## 🌐 Portfolio
+https://bigeishe.neocities.org/
+
+---
+
+## ✨ About Me
+I enjoy building things that are both technically solid and visually thoughtful, whether it’s a monitoring tool, a front‑end layout, or a handmade book.
