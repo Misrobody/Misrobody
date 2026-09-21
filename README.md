@@ -66,10 +66,7 @@ Keep in mind that the majority of my work is available here: [![Itch.io](https:/
 
 ## 📌 Featured Projects
  
-Work described in:  
-**“Grouped Graph Visualization for Kieker Monitoring Data”** - [arXiv:2507.23425](https://arxiv.org/abs/2507.23425)
-
-- **Paper:** https://arxiv.org/abs/2507.23425
+Work described in **“Grouped Graph Visualization for Kieker Monitoring Data”** - [arXiv:2507.23425](https://arxiv.org/abs/2507.23425)
 
 ---
 
