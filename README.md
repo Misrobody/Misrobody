@@ -64,18 +64,11 @@ Keep in mind that the majority of my work is available here: [![Itch.io](https:/
 
 ---
 
-## 📌 Featured Project - GGVis
-A grouped‑graph visualizer designed to make **Kieker** monitoring data easier to explore and interpret.
+## 📌 Featured Projects
+ 
+Work described in:  
+**“Grouped Graph Visualization for Kieker Monitoring Data”** - [arXiv:2507.23425](https://arxiv.org/abs/2507.23425)
 
-### 🔍 What it does  
-GGVis parses grouped traces and renders them as interactive graph structures, helping developers understand system behavior at scale.
-
-### 📄 Related Publication  
-Part of the work described in:  
-**“Grouped Graph Visualization for Kieker Monitoring Data”** - arXiv:2507.23425
-
-### 🔗 Links  
-- **Repository:** https://github.com/Misrobody/kieker-grouped-graph-visualizer  
 - **Paper:** https://arxiv.org/abs/2507.23425
 
 ---
