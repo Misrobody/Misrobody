@@ -53,6 +53,7 @@ Keep in mind that the majority of my work is available here: [![Itch.io](https:/
 ### ⚙️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 🔧 Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -63,9 +64,36 @@ Keep in mind that the majority of my work is available here: [![Itch.io](https:/
 
 ---
 
-## 📌 Featured Projects
+## 📌 Kieker Research Project
  
 Work described in **“Grouped Graph Visualization for Kieker Monitoring Data”** - [arXiv:2507.23425](https://arxiv.org/abs/2507.23425)
+
+---
+
+## 🔗 Tech → Project
+
+Since I've done so many things, scattered around the internet, here is a small selection of technologies I’ve worked with, paired with projects where they were actually used. It’s a straightforward way to show what I’ve done, not just what I list. Keep in mind the examples directly linked here are only a sliver of my body of work. You can find the rest easily with the links associated with this page.
+
+### ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[Karmaggedon](https://bigeishe.itchl.io/karmaggedon)
+
+### ![Ren'Py](https://img.shields.io/badge/Ren'Py-FF7F50?style=for-the-badge&logo=python&logoColor=white)
+[Karmaggedon](https://bigeishe.itchl.io/karmaggedon)
+
+### ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+[The Bigeishe Hub](https://bigeishe.neocities.org/)
+
+### ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+[Fish Is Awesome](https://github.com/Misrobody/Fish-Is-Awesome/tree/main)
+
+### ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-283593?style=for-the-badge&logo=c&logoColor=white)
+[Pixel Art Color Indexing](To be uploaded)
+
+### ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+[TBD](TBD)
+
+### ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+[Usability Survey for the Kieker OTKT DSL](https://github.com/Misrobody/kieker-otkt-survey)
 
 ---
 
