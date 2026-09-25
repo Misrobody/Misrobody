@@ -73,7 +73,7 @@ Since I've done so many things, scattered around the internet, here is a small s
 
 ### ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) -- [Fish Is Awesome](https://github.com/Misrobody/Fish-Is-Awesome/tree/main)
 
-### ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) -- ![C](https://img.shields.io/badge/C-283593?style=for-the-badge&logo=c&logoColor=white) [Pixel Art Color Indexing](To be uploaded)
+### ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-283593?style=for-the-badge&logo=c&logoColor=white) -- [Pixel Art Color Indexing](To be uploaded)
 
 ### ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white) -- [TBD](TBD)
 
