@@ -1,23 +1,22 @@
 <div align="center">
-
+ 
+<!-- Banner -->
 <img src="https://capsule-render.vercel.app/api?type=checkered&height=300&color=0:fe5400,900:fcba03&text=Bigeishe&reversal=false&section=header&textBg=false&fontColor=ffffff&desc=Software%20Engineer%20And%20Designer&descAlign=50&descAlignY=70&fontAlign=50&fontAlignY=50">
 
+<!-- PC GIF -->
 <img src="https://media.giphy.com/media/d3MLdIYIHup9Q2xG/giphy.gif" width=300>
 
+<!-- Socials -->
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daphne.larrivain@gmail.com)
 [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://bigeishe.itch.io/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bigeishe.neocities.org/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bigeishe)
 
-</br>
-
-<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=madushadhanushka&repo=madushadhanushka&countColorcountColor&countColor=%237B1E7B"/>
-<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Misrobody?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
-
+<!-- Stats -->
+<br/><br/>
+<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=madushadhanushka&repo=madushadhanushka&countColor=%237B1E7B"/>
+<img alt="followers" src="https://img.shields.io/github/followers/Misrobody?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
 </div>
-
-</br>
-</br>
 
 ---
 
@@ -64,48 +63,23 @@ Keep in mind that the majority of my work is available here: [![Itch.io](https:/
 
 ---
 
-## 📌 Kieker Research Project
- 
-Work described in **“Grouped Graph Visualization for Kieker Monitoring Data”** - [arXiv:2507.23425](https://arxiv.org/abs/2507.23425)
-
----
-
 ## 🔗 Tech → Project
 
 Since I've done so many things, scattered around the internet, here is a small selection of technologies I’ve worked with, paired with projects where they were actually used. It’s a straightforward way to show what I’ve done, not just what I list. Keep in mind the examples directly linked here are only a sliver of my body of work. You can find the rest easily with the links associated with this page.
 
-### ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-[Karmaggedon](https://bigeishe.itchl.io/karmaggedon)
+### ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Ren'Py](https://img.shields.io/badge/Ren'Py-FF7F50?style=for-the-badge&logo=python&logoColor=white) -- [Karmaggedon](https://bigeishe.itchl.io/karmaggedon)
 
-### ![Ren'Py](https://img.shields.io/badge/Ren'Py-FF7F50?style=for-the-badge&logo=python&logoColor=white)
-[Karmaggedon](https://bigeishe.itchl.io/karmaggedon)
+### ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) -- [The Bigeishe Hub](https://bigeishe.neocities.org/)
 
-### ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-[The Bigeishe Hub](https://bigeishe.neocities.org/)
+### ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) -- [Fish Is Awesome](https://github.com/Misrobody/Fish-Is-Awesome/tree/main)
 
-### ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-[Fish Is Awesome](https://github.com/Misrobody/Fish-Is-Awesome/tree/main)
+### ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) -- ![C](https://img.shields.io/badge/C-283593?style=for-the-badge&logo=c&logoColor=white) [Pixel Art Color Indexing](To be uploaded)
 
-### ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-283593?style=for-the-badge&logo=c&logoColor=white)
-[Pixel Art Color Indexing](To be uploaded)
+### ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white) -- [TBD](TBD)
 
-### ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-[TBD](TBD)
-
-### ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-[Usability Survey for the Kieker OTKT DSL](https://github.com/Misrobody/kieker-otkt-survey)
+### ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) -- [Usability Survey for the Kieker OTKT DSL](https://github.com/Misrobody/kieker-otkt-survey)
 
 ---
 
-<div align="center">
-  
-## 🧩 Let's connect!
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daphne.larrivain@gmail.com)
-[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://bigeishe.itch.io/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bigeishe.neocities.org/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bigeishe)
-
-<img src="https://capsule-render.vercel.app/api?type=checkered&height=300&color=0:fe5400,900:fcba03&reversal=false&section=footer&textBg=false&fontColor=426054&descAlign=50&descAlignY=70&fontAlign=50&fontAlignY=50">
-
-</div>
+## 📌 Kieker Research Project
+Work described in **“Grouped Graph Visualization for Kieker Monitoring Data”** - [arXiv:2507.23425](https://arxiv.org/abs/2507.23425)
