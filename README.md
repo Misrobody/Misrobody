@@ -69,7 +69,7 @@ A custom front‑end site with dynamic content loading, DOM manipulation, and ha
 
 A lightweight PHP + SQLite application with server‑side logic and a minimal database layer.
 
-## Pixel Art Color Indexing *(to be uploaded)*  
+## [Palette Squeezer](https://github.com/Misrobody/Palette-Squeezer)
 ![C++](https://img.shields.io/badge/C++-6A4C93?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-6A4C93?style=for-the-badge&logo=c&logoColor=white)
 
