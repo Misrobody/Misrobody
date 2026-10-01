@@ -24,10 +24,6 @@
 
 I’m **Misrobody**, a software engineer with a mixed background in **software engineering**, **UI/UX**, and several years of study in **visual arts**. I like building tools, visualizers, and interfaces that make complex systems easier to understand.
 
-For as long as I can remember, I've been dabbling in all kind of arts. However, since 2020 I've also started to mess around with the Ren'py game engine, and I've been loving it ever since!
-
-Keep in mind that the majority of my work is available here: [Itch.io](https://bigeishe.itch.io/)
-
 ---
 
 # 👾 Tech Stack
