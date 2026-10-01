@@ -6,12 +6,6 @@
 <!-- PC GIF -->
 <img src="https://media.giphy.com/media/d3MLdIYIHup9Q2xG/giphy.gif" width=300>
 
-<!-- Socials -->
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daphne.larrivain@gmail.com)
-[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://bigeishe.itch.io/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bigeishe.neocities.org/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bigeishe)
-
 <!-- Stats -->
 <br/><br/>
 <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=madushadhanushka&repo=madushadhanushka&countColor=%237B1E7B"/>
