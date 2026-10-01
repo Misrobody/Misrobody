@@ -7,7 +7,7 @@
 <img src="https://media.giphy.com/media/d3MLdIYIHup9Q2xG/giphy.gif" width=300>
 
 <!-- Stats -->
-<br/><br/>
+<br/>
 <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=madushadhanushka&repo=madushadhanushka&countColor=%237B1E7B"/>
 <img alt="followers" src="https://img.shields.io/github/followers/Misrobody?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
 </div>
