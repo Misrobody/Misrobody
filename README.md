@@ -55,14 +55,6 @@ A selection of projects paired with the technologies actually used to build them
 
 A narrative game built with Ren’Py and Python scripting (UI logic, event flow, asset handling).
 
-## [The Bigeishe Hub](https://bigeishe.neocities.org/)  
-![JavaScript](https://img.shields.io/badge/JavaScript-1572B6?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-1572B6?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-1572B6?style=for-the-badge&logo=jquery&logoColor=white)
-
-A custom front‑end site with dynamic content loading, DOM manipulation, and handcrafted UI.
-
 ## [Fish Is Awesome](https://github.com/Misrobody/Fish-Is-Awesome/tree/main)  
 ![PHP](https://img.shields.io/badge/PHP-003B57?style=for-the-badge&logo=php&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
