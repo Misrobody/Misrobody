@@ -1,7 +1,7 @@
 <div align="center">
  
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=checkered&height=300&color=0:fe5400,900:fcba03&text=Bigeishe&reversal=false&section=header&textBg=false&fontColor=ffffff&desc=Software%20Engineer%20And%20Designer&descAlign=50&descAlignY=70&fontAlign=50&fontAlignY=50">
+<img src="https://capsule-render.vercel.app/api?type=checkered&height=300&color=0:fe5400,900:fcba03&text=Misrobody&reversal=false&section=header&textBg=false&fontColor=ffffff&desc=Software%20Engineer%20And%20Designer&descAlign=50&descAlignY=70&fontAlign=50&fontAlignY=50">
 
 <!-- PC GIF -->
 <img src="https://media.giphy.com/media/d3MLdIYIHup9Q2xG/giphy.gif" width=300>
